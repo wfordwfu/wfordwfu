@@ -1,7 +1,7 @@
 ### Welcome!
 
-- 🔭 I’m currently working on building up a WSL Rancher Desktop based Development Environment
-- 🌱 I’m currently learning Azure
+- 🔭 I’m currently working on building up a VS Code conatiner - Rancher Desktop based Development Environment
+- 🌱 Using the above, provisioning in Azure via ArgoCD and Crossplane.
 
 <div>
 <details><summary>About Me</summary>
