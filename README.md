@@ -10,7 +10,7 @@
   <details open><summary><h3>About Me</h3></summary>
     <div>
       <ul>
-        <li>I'm a general purpose developer / DevOps enthusiast in Central North Carolina.</li>
+        <li>I'm a DevOps specialist / Full Stack Developer in Central North Carolina.</li>
         <li>I have my MBA from Wake Forest University and I'm interested in Continuous Improvement and developer workflows.</li>
       </ul>
     </div>
