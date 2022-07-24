@@ -11,7 +11,8 @@
     <div>
       <ul>
         <li>I'm a DevOps specialist / Full Stack Developer in Central North Carolina.</li>
-        <li>I have my MBA from Wake Forest University and I'm interested in Continuous Improvement and developer workflows.</li>
+        <li>I'm interested in Continuous Improvement and developer workflows.</li>
+        <li>I have my MBA from Wake Forest University.</li>
       </ul>
     </div>
   </details>
