@@ -1,10 +1,13 @@
-### Welcome!
-
-- 🔭 I’m currently working on building up a VS Code conatiner - Rancher Desktop based Development Environment
-- 🌱 Using the above, provisioning in Azure via ArgoCD and Crossplane.
-
 <div>
-<details><summary>About Me</summary>
+<details open><summary><h3>Welcome!</h3></summary>
+<div>
+<ul>
+<li>🔭 I’m currently working on VS Code / devcontainer solutions leveraging Docker Desktop and possibly Rancher Desktop</li>
+<li>⚡ Solutions that make enterprise technologies useful on smaller scales excite me, such as K3s and Vaex</li>
+</ul>
+</div>
+</details>
+<details open><summary><h3>About Me</h3></summary>
   <div>
 I'm a general purpose developer / DevOps enthusiast in Central North Carolina. 
 <br>
