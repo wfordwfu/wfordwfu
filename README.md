@@ -1,22 +1,24 @@
 <div>
-<details open><summary><h3>Welcome!</h3></summary>
-<div>
-<ul>
-<li>🔭 I’m currently working on VS Code / devcontainer solutions leveraging Docker Desktop and possibly Rancher Desktop</li>
-<li>⚡ Solutions that make enterprise technologies useful on smaller scales excite me, such as K3s and Vaex</li>
-</ul>
-</div>
-</details>
-<details open><summary><h3>About Me</h3></summary>
-  <div>
-I'm a general purpose developer / DevOps enthusiast in Central North Carolina. 
-<br>
-I have my MBA from Wake Forest University and I'm interested in Continuous Improvement and developer workflows.
-  </div>
-  <div>    
-    <h4>Links</h4>
-    <ul>
-      <li>
+  <details open><summary><h3>Welcome!</h3></summary>
+    <div>
+      <ul>
+        <li>🔭 I’m currently working on VS Code / devcontainer solutions leveraging Docker Desktop and possibly Rancher Desktop</li>
+        <li>⚡ Solutions that make enterprise technologies useful on smaller scales excite me, such as K3s and Vaex</li>
+      </ul>
+    </div>
+  </details>
+  <details open><summary><h3>About Me</h3></summary>
+    <div>
+      <ul>
+        <li>I'm a general purpose developer / DevOps enthusiast in Central North Carolina.</li>
+        <li>I have my MBA from Wake Forest University and I'm interested in Continuous Improvement and developer workflows.</li>
+      </ul>
+    </div>
+  </details>
+  <details open><summary><h3>Links</h3></summary>
+    <div>
+      <ul>
+        <li>
     My personal blog is <a href="https://www.willfuldevelopment.com/" rel="nofollow" target="_blank">willfuldevelopment.com</a>, where I mainly think about books I'm reading, but there are some basic technical resources.
       </li>
       <li>
