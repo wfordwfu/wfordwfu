@@ -2,15 +2,15 @@
   <details open><summary><h3>Welcome!</h3></summary>
     <div>
       <ul>
-        <li>🔭 I’m currently working on VS Code / devcontainer solutions leveraging Docker Desktop and possibly Rancher Desktop</li>
-        <li>⚡ Solutions that make enterprise technologies useful on smaller scales excite me, such as K3s and Vaex</li>
+        <li>🔭 I’m currently working on IDP based on k3s/k3d/Rancher Desktop.</li>
+        <li>⚡ Solutions that make enterprise technologies useful on smaller scales excite me.</li>
       </ul>
     </div>
   </details>
   <details open><summary><h3>About Me</h3></summary>
     <div>
       <ul>
-        <li>I'm a DevOps specialist / Full Stack Developer in Central North Carolina.</li>
+        <li>I'm a DevOps / Platform Engineer / Full Stack Developer in Central North Carolina.</li>
         <li>I'm interested in Continuous Improvement and developer workflows.</li>
         <li>I have my MBA from Wake Forest University.</li>
       </ul>
