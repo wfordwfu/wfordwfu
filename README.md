@@ -2,7 +2,7 @@
   <details open><summary><h3>Welcome!</h3></summary>
     <div>
       <ul>
-        <li>🔭 I’m currently working on IDP based on k3s/k3d/Rancher Desktop.</li>
+        <li>🔭 I’m currently working on development workflows in a hybrid environment.</li>
         <li>⚡ Solutions that make enterprise technologies useful on smaller scales excite me.</li>
       </ul>
     </div>
@@ -12,7 +12,7 @@
       <ul>
         <li>I'm a DevOps / Platform Engineer / Full Stack Developer in Central North Carolina.</li>
         <li>I'm interested in Continuous Improvement and developer workflows.</li>
-        <li>I have my MBA from Wake Forest University.</li>
+        <li>MBA from Wake Forest University.</li>
       </ul>
     </div>
   </details>
